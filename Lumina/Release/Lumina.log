@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\BearAndrei\source\repos\Lumina\Lumina\RazeLumina.h(15,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\BearAndrei\source\repos\Lumina\Lumina\RazeLumina.h(18,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  2 of 278 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lumina.vcxproj -> C:\Users\BearAndrei\source\repos\Lumina\Release\Lumina.exe

@@ -1,0 +1,5 @@
+﻿  Engine.cpp
+C:\Users\BearAndrei\source\repos\Lumina\Lumina\Engine.cpp(27,9): warning C4101: 'j': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  Lumina.vcxproj -> C:\Users\BearAndrei\source\repos\Lumina\Debug\Lumina.exe
